@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26494'
     url: http://www.gutenberg.org/2009/agents/26494
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24440#Surgical-Anatomy
 gutenberg_bookshelf: Medicine
 gutenberg_issued: '2008-01-28'
 gutenberg_type: Text
